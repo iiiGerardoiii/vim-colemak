@@ -6,6 +6,8 @@ function! Colemak()
     vnoremap e k
     nnoremap i l
     vnoremap i l
+    nnoremap k n
+    nnoremap K N
     
     " m goes to insert mode, or with shift at beginning of line
     nnoremap m i
