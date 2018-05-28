@@ -9,7 +9,7 @@ function! Colemak()
     nnoremap k n
     nnoremap K N
     
-    " m goes to insert mode, or with shift at beginning of line
+    " m goes to insert mode (call it modify mode for easier memorization)
     nnoremap m i
     nnoremap M I
     
