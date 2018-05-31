@@ -11,7 +11,6 @@ function! Colemak()
     
     " m goes to insert mode (call it modify mode from now on)
     nnoremap m i
-    vnoremap m i
     nnoremap M I
     
     " shift+i does nothing
