@@ -9,8 +9,9 @@ function! Colemak()
     nnoremap k n
     nnoremap K N
     
-    " m goes to insert mode (call it modify mode for easier memorization)
+    " m goes to insert mode (call it modify mode from now on)
     nnoremap m i
+    vnoremap m i
     nnoremap M I
     
     " shift+i does nothing
